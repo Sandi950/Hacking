@@ -73,11 +73,11 @@ figlet -f slant WAAIT | lolcat
 sleep 1
 clear
 figlet Free Fire | lolcat
-echo "================================================================" | lolcat
+echo "===============================================" | lolcat
 echo
 echo -n "Nickname Korban : " | lolcat ;read ho
 echo
-echo "Sedang Membobol Password $ho"
+echo "Sedang Membobol Password $ho" | lolcat
 echo
 sleep 10
 echo
